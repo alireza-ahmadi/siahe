@@ -1,4 +1,7 @@
-# Siahe
+Siahe
+====
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/alireza-ahmadi/siahe)](https://pkg.go.dev/github.com/alireza-ahmadi/siahe)
+
 Siahe provides a simple API for indexing terms that are related to a specific ID
 and retrieving those IDs by doing efficient prefix search on their indexed related
 terms. Current implementation of Siahe uses Radix Tree under the hood.
